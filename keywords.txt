@@ -1,0 +1,4 @@
+digitalOut	KEYWORD2
+digitalIn	KEYWORD2
+analogOut	KEYWORD2
+analogIn	KEYWORD2
